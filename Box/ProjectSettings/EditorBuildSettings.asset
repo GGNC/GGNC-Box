@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Box!/GameScenes/Menu.unity
+    guid: d25953874232cf746a980f1f15f99abc
+  - enabled: 1
+    path: Assets/Box!/GameScenes/InfinityMode.unity
+    guid: 6f7f85c06fb9b4b489f9520986aee26b
+  - enabled: 1
+    path: Assets/Box!/GameScenes/Levels/Easy/EasyLevel01.unity
+    guid: 5ee40c50deaacea43952c2d09cad6fc9
+  - enabled: 1
+    path: Assets/Box!/GameScenes/Levels/Easy/EasyLevel02.unity
+    guid: d63c697eabd685a4ab22ff3df53f1a2d
+  - enabled: 1
+    path: Assets/Box!/GameScenes/Levels/Easy/EasyLevel03.unity
+    guid: ea9a774595edaab4abccb1d61786877c
+  - enabled: 1
+    path: Assets/Box!/GameScenes/Levels/Easy/EasyLevel04.unity
+    guid: 0fa90527bf22f904bb0410cf6895ac9d
+  - enabled: 1
+    path: Assets/Box!/GameScenes/Levels/Normal/NormalLevel01.unity
+    guid: 3eaa063537ec6a04888bb691bd233746
+  - enabled: 1
+    path: Assets/Box!/GameScenes/Levels/Normal/NormalLevel02.unity
+    guid: ecac9c55dba26ad41ab1f35398c616ef
+  - enabled: 1
+    path: Assets/Box!/GameScenes/Levels/Normal/NormalLevel03.unity
+    guid: 5f33d141deeef2845888dd396b92339b
+  - enabled: 1
+    path: Assets/Box!/GameScenes/Levels/Normal/NormalLevel04.unity
+    guid: 9bc4da34cab0974448a3ce84b75bf61a
+  - enabled: 1
+    path: Assets/Box!/GameScenes/Levels/Hard/HardLevel01.unity
+    guid: f21b88a5efe4d9c44b87f311eb0c5e6f
+  - enabled: 1
+    path: Assets/Box!/GameScenes/Levels/Hard/HardLevel02.unity
+    guid: da0145e1a62204645a432c29f9bed75a
+  m_configObjects: {}
